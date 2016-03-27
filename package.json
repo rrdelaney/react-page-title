@@ -1,0 +1,16 @@
+{
+  "name": "react-page-title",
+  "version": "1.0.0",
+  "description": "Higher-order component for manipulating document.title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrdelaney/react-page-title.git"
+  },
+  "author": "Ryan Delaney <rrdelaney@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrdelaney/react-page-title/issues"
+  },
+  "homepage": "https://github.com/rrdelaney/react-page-title#readme"
+}
